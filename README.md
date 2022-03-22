@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a YouTube project](https://www.youtube.com/c/AlpiveArkada%C5%9Flar%C4%B1tv)
 
-- 🌱 I’m currently learning **Html/CSS and JavaScript and React.**
+- 🌱 I’m currently learning **Html/CSS/JavaScript and React.**
 
 - 📫 How to reach me **iamburakguvenc@gmail.com**
 
