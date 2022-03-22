@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak Güvenç</h1>
+<h1 align="center">Hi 🖖, I'm Burak Güvenç</h1>
 <h3 align="center">a professional Motion Designer trying to reach new life goals as a Software Developer!</h3>
 
 - 🔭 I’m currently working on [a YouTube project](https://www.youtube.com/c/AlpiveArkada%C5%9Flar%C4%B1tv)
