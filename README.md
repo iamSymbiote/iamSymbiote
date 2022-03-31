@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **iamburakguvenc@gmail.com**
 
-- 📄 Know about my experiences [you can check it out on Linkedin](www.linkedin.com/in/iamburakguvenc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
