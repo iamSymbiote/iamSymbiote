@@ -13,7 +13,7 @@
 <a href="https://dev.to/iamsymbiote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iamsymbiote" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamburakguvenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamburakguvenc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/iamsymbiote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamsymbiote" height="30" width="40" /></a>
-<a href="https://instagram.com/burakownz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakownz" height="30" width="40" /></a>
+<a href="https://instagram.com/iamburakguvenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakownz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/bilim101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/bilim101" height="30" width="40" /></a>
 </p>
 
