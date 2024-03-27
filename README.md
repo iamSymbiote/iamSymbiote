@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🖖, I'm Burak Güvenç</h1>
-<h3 align="center">a professional Motion Designer trying to reach new life goals as a Software Developer!</h3>
+<h3 align="center">a professional Motion Designer trying to reach new life goals as a Software Developer / QA Automation Tester!</h3>
 
 
 - 📫 How to reach me **iamburakguvenc@gmail.com**
